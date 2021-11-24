@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vocoim
 - 🌱 I’m currently learning JS + React
-- 💞️ I’m looking to collaborate on commercial or non-commercial projects
+- 💞️ I’m looking for offers of cooperation for non-commercial and commercial projects
 - 📫 How to reach me vtereshchenko05@gmail.com
 
 <!---
